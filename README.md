@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Olá, meu nome é Franciele Strack!<br>- 🌱 Estou aprendendo (e executando) frontend.<br>- 📫 Contato: francystrack@gmail.com
+- 👋 Olá, meu nome é Franciele Strack!
+- 🌱 Estou aprendendo (e executando) frontend.
+- 📫 Contato: francystrack@gmail.com
 
 
 # 💻 Tech Stack:
