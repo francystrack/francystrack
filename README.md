@@ -8,7 +8,3 @@
 
 #
 [![HTML5, CSS3, Sass, Java Script, React, Type Script](https://skillicons.dev/icons?i=html,css,sass,js,react,ts)](https://skillicons.dev)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
