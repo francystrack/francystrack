@@ -1,5 +1,5 @@
 # 💫 Hello, I'm Fran:
-- 🌱 Frontend developer intern;
+- 🌱 Frontend developer;
 - 🪶 Brazilian independent author;
 - 🎙️ Podcaster at <a href="http://bit.ly/corvocast" target="_blank">Festim do Corvocast</a>.
 - 📫 Contact me: francystrack@gmail.com
